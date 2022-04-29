@@ -6,7 +6,7 @@
   - Work:
     - [Linkedin](https://www.linkedin.com/in/christopher-hoffmann-a55b88113/?originalSubdomain=de) 
   - Hobby:
-    - [Strava](www.strava.com/athletes/69586912)
+    - [Strava](https://www.strava.com/athletes/69586912)
     - [Komoot](https://www.komoot.de/user/1384727924942)
   - Social:
     - [Instagram](https://www.instagram.com/christopher.hoffmann.568/)
